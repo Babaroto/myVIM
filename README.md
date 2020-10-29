@@ -11,4 +11,4 @@ Beside this .vimrc file have a few set and keymap shortcut that save time to exe
 
 The terminal that use for access the text editor is [Git](https://git-scm.com/downloads).
 
-And the plug manager is [VimPlug] (https://github.com/junegunn/vim-plug).
+And you cand find the plug manager on this link: https://github.com/junegunn/vim-plug
